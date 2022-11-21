@@ -1,1 +1,11 @@
 # mnist-dataset
+0-0 true
+1-1 true
+2-2 true
+3-3 true
+4-4 true
+5-5 true
+6-0 false
+7-7 true
+8-8 true
+9-8 false
